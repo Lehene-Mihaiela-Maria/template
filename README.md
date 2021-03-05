@@ -1,5 +1,6 @@
 # insert name, group here
-
+Lehene Mihaiela Maria 
+Grupa: 30237
 # Resources
 
 - [Markdown online editor](http://dillinger.io/)
